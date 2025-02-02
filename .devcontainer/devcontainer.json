@@ -28,7 +28,8 @@
 			"ms-azuretools.vscode-docker",
 			"streetsidesoftware.code-spell-checker",
 			"ms-python.black-formatter",
-			"ms-python.python"
+			"ms-python.python",
+			"ms-toolsai.jupyter"
 		]
 		}
 	}
