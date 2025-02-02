@@ -23,4 +23,4 @@ RUN apt-get install -y git tree
 SHELL ["/bin/bash", "-c"]
 USER $USERNAME
 
-RUN pip install black
+RUN pip install --upgrade pip; pip install black ipython ipykernel
