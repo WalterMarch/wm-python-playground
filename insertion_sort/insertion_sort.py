@@ -10,7 +10,6 @@ def insertion_sort(arr: list):
             j = j - 1
             print(".", end="", flush=True)
         arr[j + 1] = current
-        i = i + 1
         print(":", end="", flush=True)
 
 
